@@ -2,7 +2,7 @@
 //  MotionService.swift
 //
 //  Created by MPELLUS on 4/29/16.
-//  Copyright © 2016 meetme. All rights reserved.
+//  Copyright © 2016. All rights reserved.
 //
 
 import Foundation
