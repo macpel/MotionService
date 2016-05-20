@@ -1,2 +1,2 @@
 # MotionService
-Detects when the device is in motion
+Detects when the IOS device is in motion (Swift)
